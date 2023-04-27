@@ -1,0 +1,106 @@
+body{
+	margin-top:0px;
+	padding-top:0px;
+	margin-left:0px;
+	padding-left:0px;
+	margin-right:0px;
+	padding-right:0px;
+    text-decoration: none;
+}
+
+
+header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+
+.logo {
+    margin-top: -30px;
+    float: left;
+}
+header nav ul {
+    display: inline;
+    margin-top: 86px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    float: right;
+    margin-right: 50px;
+    font-size: x-large;
+}
+header nav ul li {
+    display: inline;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.hero-text {
+    clear: both;
+    margin-left: 150px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    padding-top: 35px;
+}
+.exercise_name{
+ font-family: bebas-neue;
+ font-size: 70px;
+ color: #0ac4dc;
+ text-align: center;
+ margin-top: 125px;
+}
+.meditation_container{
+    /* margin-top: -30px; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #F26A0D; */
+}.music_container{
+    /* margin-top: -30px; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #F26A0D; */
+	margin-bottom: 100px;
+}
+.motivation_container{
+
+    display: grid;
+    grid-template-columns: auto auto;
+	margin-left: 50px;
+}
+footer{
+	clear: both;
+    color: #ffffff;
+    background-color:#0ac4dc;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top: 0;
+}
+.copyright{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+.policies{
+
+    float: right;
+    margin-right:50px;
+   
+}
+.main_body{
+    background-color: #302f2f;
+}
+hr{
+	clear: both;
+}

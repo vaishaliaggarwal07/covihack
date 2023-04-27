@@ -1,0 +1,157 @@
+body{
+	margin-top:0px;
+	padding-top:0px;
+	margin-left:0px;
+	padding-left:0px;
+	margin-right:0px;
+	padding-right:0px;
+}
+
+
+
+header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.logo {
+    margin-top: -30px;
+    float: left;
+}
+header nav ul {
+    display: inline;
+    margin-top: 86px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    float: right;
+    margin-right: 50px;
+    font-size: x-large;
+}
+header nav ul li {
+    display: inline;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.hero-text {
+    clear: both;
+    margin-left: 150px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    padding-top: 35px;
+}
+blockquote{
+	color: white;
+	font-size: 25px;
+	float: right;
+	display: inline-block;
+	margin-top: -250px;
+	margin-right: 100px;
+	font-family:montserrat;
+}
+.gender_exercise {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.gender_exercise button{
+    width: 10rem;
+    height: 4rem;
+    background-color: transparent;
+    border: solid;
+	float: left;
+    cursor: pointer;
+    color: white;
+    margin-top: 300px;
+    margin-right:-100px;
+	margin-left: 433px;
+    text-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
+    border-radius: 2rem;
+    
+     box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.4);
+
+}
+.gender_exercise button a {
+	font-family: bebas-neue;
+    font-size: 1.75rem;
+	color: white;
+}
+
+
+    
+
+
+.button1:hover{
+    background-color: #12e28c;
+    color: white;
+    border: none;
+}
+
+.button2:hover{
+    background-color: #12e28c;
+    color: white;
+    border: none;	
+}
+.exercise_name{
+ font-family: bebas-neue;
+ font-size: 70px;
+ color: #0ac4dc;
+ text-align: center;
+ margin-top: 50px;
+}
+
+.zumba_container{
+    /* margin-top: -30px; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #F26A0D; */
+}
+/* .zumba_name{
+    background-color: #F26A0D;
+    padding-bottom: 0;
+} */
+.aerobics_container{
+  
+    display: grid;
+    grid-template-columns: auto auto ;
+    margin-left: 117px;
+}
+.yoga_container{
+
+    display: grid;
+    grid-template-columns: auto auto ;
+    margin-left: 117px;
+}
+footer{
+    color: #ffffff;
+    background-color:#0ac4dc;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top: 0;
+}
+.copyright{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+.policies{
+
+    float: right;
+    margin-right:50px;
+   
+}
+.main_body{
+    background-color: #302f2f;
+}
